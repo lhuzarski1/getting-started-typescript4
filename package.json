@@ -1,10 +1,10 @@
 {
   "name": "getting-started-typescript4",
   "version": "4.0.0",
-  "description": "Simple mathgame built with TypeScript.",
+  "description": "Simple math game built with TypeScript.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack server"
+    "start": "webpack serve"
   },
   "author": "Brice Wilson",
   "license": "ISC",
